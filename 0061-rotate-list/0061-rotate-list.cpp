@@ -12,8 +12,8 @@ public:
             temp=temp->next;
             n++;
         }
-        if(k==0) return head;
         k=k%n; /// if k is 10 and n=5 so wehave to rotate k 2 times {imp rotate concept}
+        if(k==0) return head;
         temp=head;
         // Moving temp to n-k index
         for(int i=1;i<n-k;i++){
