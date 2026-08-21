@@ -12,7 +12,7 @@ public:
                 st.pop();
                 count++;
             }
-            if(st.size()!=0) count++;
+            if(st.size()!=0) count++; // cuz curr elemtn top element bhi dekh skhta hai isle e are using count++ here as well
             ans[i]=count;
             st.push(h[i]);
         }
