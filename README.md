@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/harsh1922/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0155-min-stack](https://github.com/harsh1922/Leetcode/tree/master/0155-min-stack) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/harsh1922/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/harsh1922/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/harsh1922/Leetcode/tree/master/0085-maximal-rectangle) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/harsh1922/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
