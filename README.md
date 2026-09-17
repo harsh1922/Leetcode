@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/harsh1922/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/harsh1922/Leetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/harsh1922/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/harsh1922/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/harsh1922/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/harsh1922/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -82,9 +83,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/harsh1922/Leetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/harsh1922/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/harsh1922/Leetcode/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/harsh1922/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/harsh1922/Leetcode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
