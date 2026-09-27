@@ -1,5 +1,7 @@
 class Solution {
 public:
+
+//               Method 1=> Deueue Appraoch
     vector<int> maxSlidingWindow(vector<int>& v, int k) {
         int n=v.size();
         if(k==1) return v;  // basse case
