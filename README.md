@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/harsh1922/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0239-sliding-window-maximum](https://github.com/harsh1922/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/harsh1922/Leetcode/tree/master/0622-design-circular-queue) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/harsh1922/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/harsh1922/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2326-spiral-matrix-iv](https://github.com/harsh1922/Leetcode/tree/master/2326-spiral-matrix-iv) |
 ## Matrix
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/harsh1922/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2326-spiral-matrix-iv](https://github.com/harsh1922/Leetcode/tree/master/2326-spiral-matrix-iv) |
 ## Recursion
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/harsh1922/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/harsh1922/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/harsh1922/Leetcode/tree/master/0622-design-circular-queue) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/harsh1922/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Sliding Window
 |  |
 | ------- |
@@ -108,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/harsh1922/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Sorting
+|  |
+| ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/harsh1922/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
