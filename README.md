@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/harsh1922/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/harsh1922/Leetcode/tree/master/0622-design-circular-queue) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/harsh1922/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/harsh1922/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/harsh1922/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2326-spiral-matrix-iv](https://github.com/harsh1922/Leetcode/tree/master/2326-spiral-matrix-iv) |
 ## Matrix
@@ -56,12 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/harsh1922/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/harsh1922/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2326-spiral-matrix-iv](https://github.com/harsh1922/Leetcode/tree/master/2326-spiral-matrix-iv) |
 ## Recursion
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/harsh1922/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/harsh1922/Leetcode/tree/master/0206-reverse-linked-list) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/harsh1922/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/harsh1922/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/harsh1922/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/harsh1922/Leetcode/tree/master/0622-design-circular-queue) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/harsh1922/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/harsh1922/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -115,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/harsh1922/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+## Math
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/harsh1922/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
