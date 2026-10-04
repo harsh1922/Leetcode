@@ -7,15 +7,15 @@ string rev(string &s){
 }
     int maximumNumberOfStringPairs(vector<string>&v) {
         int n=v.size();
-        unordered_map<string,int>mp;
+        unordered_set<string>st;
         int ans=0;
         for(int i=0;i<n;i++){
             string r=rev(v[i]);
 
             //If we found in map => ans++
-            if(mp.find(r)!=mp.end()) ans++;
+            if(st.find(r)!=st.end()) ans++;
             else {
-                mp[r]=i;
+                st.insert(r);
             }
         }
         return ans;
